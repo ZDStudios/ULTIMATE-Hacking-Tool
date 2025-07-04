@@ -1,18 +1,20 @@
 # 💻 THE ULTIMATE UNIVERSAL HACKING TERMINAL
 
-Welcome to your all-in-one command-line chaos engine. Whether you're on macOS 🖥️, Linux 🐧, or Windows 💼, this tool auto-detects your environment and launches the appropriate script—straight from the web.
-
-## 🧠 Features
-
-- Cross-platform terminal launcher 🌐
-- Minimal input, maximum flex 🤖
-- Baller green ASCII menu included 💚
-- Select from tools like Network Scanner, Web Crawler, Payload Builder 🔧
+Welcome to your all-in-one command-line chaos engine. Whether you're on macOS 🍎, Linux 🐧, or Windows 🪟, this tool auto-launches with minimal input and maximum impact.
 
 ## 🚀 One-Liner Setup
 
-Paste this into any terminal (Linux, macOS, or Windows PowerShell) and you're good to go:
+Paste the command that matches your system into your terminal. That’s it.
 
-```bash
-bash -c 'curl -sL https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Linux-Hack.sh | bash' || powershell -Command "iwr -UseBasicParsing https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Powershell-Hack.ps1 | iex"
+```powershell
+# 🪟 Windows PowerShell
+iwr -UseBasicParsing https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Powershell-Hack.ps1 | iex
+
+# 🍎 macOS
+curl -sL https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Linux-Hack.sh | bash
+
+# 🐧 Linux
+curl -sL https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Linux-Hack.sh | bash
+
+
 

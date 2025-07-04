@@ -14,5 +14,5 @@ Welcome to your all-in-one command-line chaos engine. Whether you're on macOS ðŸ
 Paste this into any terminal (Linux, macOS, or Windows PowerShell) and you're good to go:
 
 ```bash
-bash -c 'curl -sL https://raw.githubusercontent.com/your-username/your-repo/main/linux-script.sh | bash' || powershell -Command "iwr -UseBasicParsing https://raw.githubusercontent.com/your-username/your-repo/main/windows-script.ps1 | iex"
+bash -c 'curl -sL https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Linux-Hack.sh | bash' || powershell -Command "iwr -UseBasicParsing https://raw.githubusercontent.com/ZDStudios/ULTIMATE-Hacking-Tool/refs/heads/main/Powershell-Hack.ps1 | iex"
 

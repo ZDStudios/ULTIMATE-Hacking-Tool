@@ -1,4 +1,5 @@
-$logo = @"
+function Show-Logo {
+    $logo = @"
 `e[32m
    ██████╗   ██████╗  █████╗ ████████╗
   ██╔════╝  ██╔═══██╗██╔══██╗╚══██╔══╝
@@ -10,7 +11,7 @@ $logo = @"
 `e[0m
 Gear. Override. Access. Terminate — the hacker’s creed.
 "@
-Write-Host $logo
+    Write-Host $logo
 }
 
 function Show-Menu {
